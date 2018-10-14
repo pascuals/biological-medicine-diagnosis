@@ -1,20 +1,21 @@
-let
-	diagnostics = [
-		{
-			id: 1,
-			name: "Calor tóxico. Calor plenitud de sangre. Hipersensibilidad inmunitaria",
-			description: "Descripción pendiente...",
-			symptoms: [1, 2, 3, 4],
-			pathologies: [1, 2, 3, 4, 5, 6, 7, 8, 9]
-		},
-		{
-			id: 2,
-			name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
-			description: "Descripción pendiente...",
-			symptoms: [1, 5, 6, 7, 8, 9, 10, 11],
-			pathologies: [9, 10, 11, 12, 13, 14]
-		}
-	];
+// BIOLOGY DATA
+
+let diagnostics = [
+	{
+		id: 1,
+		name: "Calor tóxico. Calor plenitud de sangre. Hipersensibilidad inmunitaria",
+		description: "Descripción pendiente...",
+		symptoms: [1, 2, 3, 4],
+		pathologies: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+	},
+	{
+		id: 2,
+		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		description: "Descripción pendiente...",
+		symptoms: [1, 5, 6, 7, 8, 9, 10, 11],
+		pathologies: [9, 10, 11, 12, 13, 14]
+	}
+];
 
 let symptoms = [
 	{
@@ -122,4 +123,4 @@ let pathologies = [
 	}
 ]
 
-biology.data(symptoms, pathologies, diagnostics);
+biology.load(symptoms, pathologies, diagnostics);

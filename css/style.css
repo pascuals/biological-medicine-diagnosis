@@ -63,12 +63,16 @@ input::placeholder {
 	margin-bottom: 15px;
 }
 
-.biology-entry:hover, .biology-entry.active {
+.bio-entry.selected {
+	font-weight: bold;
+}
+
+.bio-entry:hover, .bio-entry.active {
 	background-color: #ccc;
 	color: #eee;
 	cursor: pointer;
 }
-.biology-entry.active {
+.bio-entry.active {
 	background-color: #222;
 }
 
