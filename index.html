@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Biological Diagnosis</title>
+
+	<meta charset="UTF-8" />
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+	<link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<div class="header">
+		<h1>Biological Medicine Diagnosis</h1>
+	</div>
+	<div class="container">
+		<!-- SEARCH SYMPTOMS -->
+		<div class="search-block biology-symptoms">
+			<input type="search" class="search-block-box biology-search" placeholder="Search a symptom..." />
+			<div class="biology-list">
+
+			</div>
+		</div>
+
+		<!-- SEARCH PATHOLOGIES -->
+		<div class="search-block biology-pathologies">
+			<input type="search" class="search-block-box biology-search" placeholder="Search a pathology..." />
+			<div class="biology-list">
+
+			</div>
+		</div>
+
+		<!-- SEARCH DIAGNOSTICS -->
+		<div class="search-block biology-diagnostics">
+			<input type="search" class="search-block-box biology-search" placeholder="Search a diagnostic..." />
+			<div class="biology-list">
+
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="js/lib/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="js/biology/core.js"></script>
+	<script type="text/javascript" src="js/biology/data.js"></script>
+
+	<script>
+		$(function () {
+			biology.init('biology');
+		});
+	</script>
+</body>
+
+</html>

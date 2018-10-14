@@ -1,0 +1,136 @@
+@charset "utf-8";
+
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+	font-family: Arial;
+	font-size: 1em;
+	color: #222;
+}
+
+p {
+	font-size: 12px;
+}
+
+div {
+	box-sizing: border-box;
+	display: inline-block;
+	width: 100%;
+}
+
+img {
+	display: inline-block;
+	max-width: 100%;
+}
+
+input[type=search], input[type=text] {
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	font-size: 1.1em;
+	padding: 7px 8px;
+	width: 100%;
+}
+
+input::placeholder {
+	color: #bbb
+}
+
+.header {
+	color: #454545;
+	margin-bottom: 15px;
+	padding: 10px 25px;
+	text-align: center;
+}
+
+.container {
+	padding: 0 25px 25px;
+}
+
+.search-block {
+	float: left;
+	min-height: 250px;
+	padding: 0 15px 35px;
+	width: 33.3333%;
+}
+
+.search-block:not(:first-child) {
+	border-left: 1px solid #ccc;
+}
+
+.search-block-box {
+	margin-bottom: 15px;
+}
+
+.biology-entry:hover, .biology-entry.active {
+	background-color: #ccc;
+	color: #eee;
+	cursor: pointer;
+}
+.biology-entry.active {
+	background-color: #222;
+}
+
+
+/* OLD */
+.main-symptom {
+	padding: 4px;
+	margin-bottom: 3px;
+	font-size: .7em;
+}
+
+.main-body-cont {
+	display: block;
+	overflow: hidden;
+	width: auto;
+}
+
+.main-body {
+	float: left;
+	width: 50%;
+	padding: 0 0 0 2%;
+}
+
+.body-cont {
+	position: relative;
+}
+
+.body-refs {
+	width: 40%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+}
+
+.body-image {
+	width: 100%;
+	float: right;
+	position: relative;
+}
+
+.body-cont img {
+	width: 100%;
+	height: 100%;
+}
+
+.main-point, .main-point-dot {
+	left: 2%;
+	position: absolute;
+	width: auto;
+}
+
+.main-point {
+	margin-top: -5px;
+	padding-right: 5px;
+}
+
+.main-point-dot {
+	border: 4px solid blue;
+	width: 0px;
+	border-radius: 4px;
+}
+
+.main-point-line {
+	border-color: #666 !important;
+}
