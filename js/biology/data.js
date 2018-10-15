@@ -64,7 +64,7 @@ let symptoms = [
 	},
 	{
 		id: 12,
-		name: "OTRO"
+		name: "otro"
 	}
 ];
 
