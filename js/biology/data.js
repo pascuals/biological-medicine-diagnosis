@@ -61,6 +61,10 @@ let symptoms = [
 	{
 		id: 11,
 		name: "Pulso rápido"
+	},
+	{
+		id: 12,
+		name: "OTRO"
 	}
 ];
 
