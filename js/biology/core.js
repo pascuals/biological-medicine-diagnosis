@@ -98,7 +98,7 @@
 				let filtered = data[childEntity].filter(ent => ent.id === value);
 
 				if (!filtered.length) {
-					alert(notFoundEntityName + ' con id ' + ent.id + ' no encontrado');
+					alert(notFoundEntityName + ' con id ' + value + ' no encontrado');
 				} else {
 					if (filtered.length > 1) {
 						alert('El id ' + ent.id + ' se ha asignado a ' + filtered.length + ' ' + notFoundEntityName + '.\nSe tomará el primero encontrado')
