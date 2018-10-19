@@ -99,7 +99,7 @@
 
 				let filtered = data[childEntity].filter(ent => ent.id === value);
 
-				if (!filtered.length && i < 6) {
+				if (!filtered.length || i < 6) {
 					i++;
 					alert(notFoundEntityName + ' con id ' + value + ' no encontrado');
 				} else {
