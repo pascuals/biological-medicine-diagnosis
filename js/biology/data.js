@@ -24,203 +24,203 @@ let diagnostics = [
 	},
 	{
 		id: 40,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Calor plenitud en estómago e intestinos. Exceso metabólico en estómago",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 50,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Calor en al QI y calor en el pulmón. Exceso metabólico en pulmones",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 60,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de QI y de Yang de bazo. Vacío de Yang de riñón. Deficiencia funcional digestiva. Deficiencia funcional córtico-suprarenal",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 61,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de QI de Bazo con Vacío de QI y de Sangre de Corazón.Deficiencias digestivas por pobreza funcional cardíacaencimática digestiva ",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 62,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacio de QI del Bazo y de pulmón con estancamiento de la energía enzimática asociados a Vacío de Ying y a Humedad.Deficiencia digestiva del transporte alimentario asociado a transporte neuro-vegetarivo y edema en el ámbito digestivo",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 63,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de QI de pulmón más Vacío de Wei Qi más Viento que Estanca el Qi.Deficiencia inmunitaria y constitucional pulmonar asociada a bloqueo enzimático",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 64,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío o Deficiencia del Qi con Humedad y Acumulación de Comida.Debilidad energética, enzimática, asociada a edema y fáciles estancamientos de comida",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 65,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Qi con Vacío de Ying, con Vacío y Calor de Sangre propia del afectado por quimioterapia.Vacío energético glandular, sanguíneo y global. Astenia general",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 66,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Qi de Pulmón, de Bazo y Riñón y con Vacío de Ying",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 67,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Qi de Pulmón de Bazo y Riñones. Agresión de Viento Externo",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 68,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Qi(de Bazo y Riñón) con Humedad de Vejiga.Vacío digestivo, suprarrenal y edema en el ámbito pélbico",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 69,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Qi de Bazo con Estancamietno de Qi de Hígado y Humedad en intestino. Deficiencia digestiva asociada a emotividad alterada y bloqueo hepático subsiguiente.",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 70,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Qi de Estómado y Bazo con insuficiencia de Yin de Estómago, con Humedad y Estancamiento del Qi en triple Recalentador. Deficiencias energéticas,",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 71,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Qi de Pulmón y Bazo con Deficiencia de Yang y Humedad residual en los músculos",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 72,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Yang",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 75,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Qi de Corazón. Vacío de Yang de Corazón. Deficiencia energética en corazón",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 80,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Ying. Sequedad. Trastorno neuroendocrino",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 90,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Qi y Yang de Pulmón. Vacío de WEI Qi. Deficiencia inmunitaria pulmonar",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 100,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Sangre, Yin, Yang y Qi. Vacío de Jing. Vacío esencial global energético",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 110,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Vacío de Sangre. Vacío de Sangre de Hígado. Deficiencia de la función del hígado de enriquecer la sangre",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 120,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Estancamiento de Sangre. Estancamientos y estasis sanguíneo",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 130,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Estancamiento de Qi de Hígado. Estancamiento de Qi General. Procesos de estancamietno enzimático",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 140,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Sindrome de Obstrucción en los Jing Mai. Microcirculación Alterada",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 150,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Humedad Frío. Edema y acumulación líquida en subepitelios",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 160,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Humedad calor- Humedad Calor Digestivo (Recalentador Medio). Acumulación de líquido e hipermetabolismo en digestivo",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 170,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Humedad Calor (II). Humedad Calor en Piel y Periferia. Acumulación de líquido e hippermetabolismo en piel y musculación",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 180,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Humedad Calor (III). Humedad Calor en Riñón (Recalentador Inferior). Acumulación de líquido e hippermetabolismo en ámbito genito-urinario",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 190,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Mucosidades Calor. Acumulación de flemas e hipermetabolismo",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 200,
-		name: "Calor-plenitud Yang en hígado. Calor-plenitud en vesícula biliar. Viento de hígado. Exceso metabólico en hígado",
+		name: "Mucosidades Frío. Acumulación de flemas e hipometabolismo",
 		description: "Descripción pendiente...",
 		symptoms: [50,120,290,520,590,630,1160,2090,3510],
 		pathologies: [9, 10, 11, 12, 13, 14]
