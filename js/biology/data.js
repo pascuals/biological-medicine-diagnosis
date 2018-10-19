@@ -26,42 +26,42 @@ let diagnostics = [
 		id: 40,
 		name: "Calor plenitud en estómago e intestinos. Exceso metabólico en estómago",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [30,70,90,390,,,530,1280,1640,1660,1670,1950,2080,3260,3520,3670],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 50,
 		name: "Calor en al QI y calor en el pulmón. Exceso metabólico en pulmones",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [30,80,240,580,1050,1320,1460,1470,1610,1870,2070,3040,3490,3550,3660,3690,4260,4380],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 60,
 		name: "Vacío de QI y de Yang de bazo. Vacío de Yang de riñón. Deficiencia funcional digestiva. Deficiencia funcional córtico-suprarenal",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [10,50,60,100,200,220,310,330,360,410,510,600,750,750,900,1350,1800,1920,2010,2220,3000,3220,3330,3340,3530,3620,3650,3810,3820,4000,4230],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 61,
 		name: "Vacío de QI de Bazo con Vacío de QI y de Sangre de Corazón.Deficiencias digestivas por pobreza funcional cardíacaencimática digestiva ",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [210,740,800,810,1330,1810,1900,1980,2000,3180,3620],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 62,
 		name: "Vacio de QI del Bazo y de pulmón con estancamiento de la energía enzimática asociados a Vacío de Ying y a Humedad.Deficiencia digestiva del transporte alimentario asociado a transporte neuro-vegetarivo y edema en el ámbito digestivo",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [390,500,740,800,800,850,870,1040,1810,1950,1990,1970,2020,2190,2240,3070,3360,3620,3680,3750,3830,4240],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 63,
 		name: "Vacío de QI de pulmón más Vacío de Wei Qi más Viento que Estanca el Qi.Deficiencia inmunitaria y constitucional pulmonar asociada a bloqueo enzimático",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [150,700,1290,1410,3060,3580,3590,3790],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
@@ -229,52 +229,52 @@ let diagnostics = [
 
 let symptoms = [
 	{
-		id: 1,
-		name: "Fiebre elevadas fáciles y frecuentes"
+		id: 130,
+		name: "Agitación emocional, incluso comportamiento maníaco y o espíritu turbado"
 	},
 	{
-		id: 2,
-		name: "Procesos inflamatorios repetidos"
+		id: 400,
+		name: "Boca y garganta secas"
 	},
 	{
-		id: 3,
-		name: "Lesiones purulentas repetidas"
+		id: 450,
+		name: "CALOR, calor interno, hipertemia, sed. (muy obvio)"
 	},
 	{
-		id: 4,
+		id: 529,
+		name: "Capa saburral amarilla o amarillenta"
+	},
+	{
+		id: 1160,
+		name: "Epistaxis fáciles"
+	},
+	{
+		id: 1190,
 		name: "Erupciones cutáneas repetidas"
 	},
 	{
-		id: 5,
-		name: "Enrojecimiento de cara y ojos en general"
+		id: 1210,
+		name: "Espamofilia"
 	},
 	{
-		id: 6,
-		name: "Agitación mental"
+		id: 1440,
+		name: "Fiebres elevadas, fáciles y frecuentes"
 	},
 	{
-		id: 7,
-		name: "Irritabilidad"
+		id: 1710,
+		name: "Hemorragias fáciles (epistaxis, hematemesis)"
 	},
 	{
-		id: 8,
-		name: "Carácter fuerte o colérico"
+		id: 1990,
+		name: "Lengua escarlata"
 	},
 	{
-		id: 9,
-		name: "Lengua roja oscura especialmente en los bordes"
+		id: 2050,
+		name: "Lengua punteada en rojo"
 	},
 	{
-		id: 10,
-		name: "Capa sapurral amarilla o amarillenta"
-	},
-	{
-		id: 11,
-		name: "Pulso rápido"
-	},
-	{
-		id: 12,
-		name: "el otro mas"
+		id: 1,
+		name: ""
 	}
 ];
 
