@@ -92,12 +92,15 @@
 
 	// link/replace data entities over array ids
 	function linkEntities(baseEntity, childEntity, notFoundEntityName) {
+		let i = 0;
+
 		data[baseEntity].forEach(entity => {
 			entity[childEntity].forEach((value, index) => {
 
 				let filtered = data[childEntity].filter(ent => ent.id === value);
 
-				if (!filtered.length) {
+				if (!filtered.length && i < 6) {
+					i++;
 					alert(notFoundEntityName + ' con id ' + value + ' no encontrado');
 				} else {
 					if (filtered.length > 1) {
