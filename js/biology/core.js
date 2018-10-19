@@ -234,14 +234,16 @@
 	// selecting an item in a list
 	function propagateSelect(entityList, selectionList) {
 		entityList.forEach(entity => {
-			entity.count = entity.count || 0;
-			entity.count++;
+			if(typeof entity === 'object') {
+				entity.count = entity.count || 0;
+				entity.count++;
 
-			if (entity.count === 1) {
-				selectionList = selectionList || data.selected.entities;
-				selectionList.push(entity);
+				if (entity.count === 1) {
+					selectionList = selectionList || data.selected.entities;
+					selectionList.push(entity);
 
-				entity.domElement.addClass(config.naming.selected);
+					entity.domElement.addClass(config.naming.selected);
+				}
 			}
 		});
 	}
