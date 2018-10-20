@@ -273,6 +273,166 @@ let symptoms = [
 		name: "Lengua punteada en rojo"
 	},
 	{
+		id: 2140,
+		name: "Lengua roja o francamente escarlata "
+	},
+	{
+		id: 2150,
+		name: "Lesiones purulentas repetidas como abcesos, forúnculos (diviesos), etc"
+	},
+	{
+		id: 2290,
+		name: "Mejillas rojas"
+	},
+	{
+		id: 3300,
+		name: "Procesos inflamatorios repetidos como anginas, gastroenteritir, faringitis, clecistitis, infecciones agudas, colitis infecciosa, conjuntivitis, etc"
+	},
+	{
+		id: 3400,
+		name: "Pulso fino y rápido"
+	},
+	{
+		id: 3510,
+		name: "Pulso rápido y ancho"
+	},
+	{
+		id: 3630,
+		name: "Rostro y aspecto rojo y fuerte"
+	},
+	{
+		id: 3660,
+		name: "Sed"
+	},
+	{
+		id: 50,
+		name: "Acúfenos"
+	},
+	{
+		id: 120,
+		name: "Agitación mental o irritabilidad (crisis o accesos)"
+	},
+	{
+		id: 290,
+		name: "Aspecto congestivo (a evaluar)"
+	},
+	{
+		id: 520,
+		name: "Capa saburral amarilla o amarillenta"
+	},
+	{
+		id: 590,
+		name: "Cara enrojecida y ojos en general (rojez de conjuntiva)"
+	},
+	{
+		id: 630,
+		name: "Cefalea hemicraneal (a evaluar"
+	},
+	{
+		id: 1160,
+		name: "Epistaxis (a evaluar)"
+	},
+	{
+		id: 2090,
+		name: "Lengua roja oscura (sobre todo en los bordes)"
+	},
+	{
+		id: 3510,
+		name: "Pulso rápido y ancho"
+	},
+	{
+		id: 80,
+		name: "Aftas bucales fáciles"
+	},
+	{
+		id: 110,
+		name: "Agitación"
+	},
+	{
+		id: 380,
+		name: "Boca amarga"
+	},
+	{
+		id: 390,
+		name: "Boca seca"
+	},
+	{
+		id: 690,
+		name: "Comportamiento maníaco"
+	},
+	{
+		id: 720,
+		name: "Crisis de nervios"
+	},
+	{
+		id: 1430,
+		name: "Fiebre ocasional"
+	},
+	{
+		id: 1490,
+		name: "Fobia severa"
+	},
+	{
+		id: 1900,
+		name: "Insomnio"
+	},
+	{
+		id: 2100,
+		name: "Lengua roja y hasta escarlata y más roja en el ápice"
+	},
+	{
+		id: 2130,
+		name: "lengua temblorosa"
+	},
+	{
+		id: 2230,
+		name: "Mal carácter"
+	},
+	{
+		id: 3160,
+		name: "Orina rojiza y oscura"
+	},
+	{
+		id: 3180,
+		name: "palpitaciones"
+	},
+	{
+		id: 3190,
+		name: "Paranoia"
+	},
+	{
+		id: 3500,
+		name: "Pulso rápido siempre y tenso pero a veces ancho y aveces fino si se asocia un vacío de Yin"
+	},
+	{
+		id: 3670,
+		name: "Sed de bebidas fías"
+	},
+	{
+		id: 3700,
+		name: "Sensación de calor en el pecho"
+	},
+	{
+		id: 4200,
+		name: "Tez roja"
+	},
+	{
+		id: 30,
+		name: "abscesos dentarios"
+	},
+	{
+		id: 70,
+		name: "afecciones irritativas digestivas"
+	},
+	{
+		id: 90,
+		name: "aftas o úlceras linguales"
+	},
+	{
+		id: 390,
+		name: "Boca seca"
+	},
+	{
 		id: 1,
 		name: ""
 	}
