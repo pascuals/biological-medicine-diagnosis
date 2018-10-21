@@ -433,7 +433,151 @@ let symptoms = [
 		name: "Boca seca"
 	},
 	{
-		id: 1,
+		id: 530,
+		name: "capa saburral amarilla en la raíz lingual"
+	},
+	{
+		id: 1280,
+		name: "estomatitis"
+	},
+	{
+		id: 1640,
+		name: "Gingivitis "
+	},
+	{
+		id: 1660,
+		name: "halitosis de origen gástrico"
+	},
+	{
+		id: 1670,
+		name: "Hambre mucha, canina"
+	},
+	{
+		id: 1950,
+		name: "labios secos"
+	},
+	{
+		id: 2080,
+		name: "lengua roja o escarlata a veces ulcerada"
+	},
+	{
+		id: 3260,
+		name: "Polidipsia (necesidad urgente de beber)"
+	},
+	{
+		id: 3520,
+		name: "pulso rápido, ancho o fino "
+	},
+	{
+		id: 3670,
+		name: "sed de bebidas fría"
+	},
+	{
+		id: 60,
+		name: "adelgazamiento"
+	},
+	{
+		id: 70,
+		name: "afecciones irritativas digestivas"
+	},
+	{
+		id: 100,
+		name: "ageusia (pérdida del gusto)"
+	},
+	{
+		id: 120,
+		name: "agitación e irritabilidad"
+	},
+	{
+		id: 140,
+		name: "agotamiento"
+	},
+	{
+		id: 150,
+		name: "alergia a gatos, perros etc."
+	},
+	{
+		id: 160,
+		name: "alopecia"
+	},
+	{
+		id: 170,
+		name: "alteraciones digestivas"
+	},
+	{
+		id: 180,
+		name: "amenorrea (ausencia)"
+	},
+	{
+		id: 190,
+		name: "anemia"
+	},
+	{
+		id: 200,
+		name: "angina de pecho"
+	},
+	{
+		id: 210,
+		name: "ansiedad"
+	},
+	{
+		id: 215,
+		name: "Ansiedad y fobia"
+	},
+	{
+		id: 220,
+		name: "apatía"
+	},
+	{
+		id: 230,
+		name: "apetito disminuido o inapetencia"
+	},
+	{
+		id: 240,
+		name: "ardor en la garganta"
+	},
+	{
+		id: 250,
+		name: "arritmia extrasistólica"
+	},
+	{
+		id: 260,
+		name: "Arritmias"
+	},
+	{
+		id: 270,
+		name: "ascitis"
+	},
+	{
+		id: 280,
+		name: "asma alérgica"
+	},
+	{
+		id: 300,
+		name: "astenia"
+	},
+	{
+		id: 310,
+		name: "astenia (siempre)"
+	},
+	{
+		id: 320,
+		name: "astenia intelectual"
+	},
+	{
+		id: 330,
+		name: "astenia mental"
+	},
+	{
+		id: 340,
+		name: "Astenia sexual"
+	},
+	{
+		id: 350,
+		name: "ausencia de sed"
+	},
+	{
+		id: 3,
 		name: ""
 	}
 ];
