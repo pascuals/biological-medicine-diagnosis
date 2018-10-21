@@ -326,10 +326,6 @@ let symptoms = [
 		name: "Cefalea hemicraneal (a evaluar"
 	},
 	{
-		id: 1160,
-		name: "Epistaxis (a evaluar)"
-	},
-	{
 		id: 2090,
 		name: "Lengua roja oscura (sobre todo en los bordes)"
 	},
@@ -578,7 +574,187 @@ let symptoms = [
 		name: "ausencia de sed"
 	},
 	{
-		id: 3,
+		id: 360,
+		name: "Aversión al frío"
+	},
+	{
+		id: 370,
+		name: "boca algo seca"
+	},
+	{
+		id: 410,
+		name: "bronquitis"
+	},
+	{
+		id: 420,
+		name: "bronquitis facilmente cronificables"
+	},
+	{
+		id: 430,
+		name: "Calor en palmas de las manos y planta de los pies"
+	},
+	{
+		id: 440,
+		name: "calor interno mas o menos obvio"
+	},
+	{
+		id: 460,
+		name: "Calor, sensación de calor"
+	},
+	{
+		id: 470,
+		name: "Calores extraños sorpresivos"
+	},
+	{
+		id: 480,
+		name: "Calores nocturnos"
+	},
+	{
+		id: 490,
+		name: "Calores y sudores expontáneos en rostro, mejillas, orejas, frente, cuello, sin causa aparente y sobre todo por la noche"
+	},
+	{
+		id: 500,
+		name: "cansancio"
+	},
+	{
+		id: 510,
+		name: "cansancio esencial (siempre)"
+	},
+	{
+		id: 530,
+		name: "capa saburral amarilla en la raíz lingual"
+	},
+	{
+		id: 540,
+		name: "capa saburral amarilla y húmeda"
+	},
+	{
+		id: 550,
+		name: "capa saburral blanca"
+	},
+	{
+		id: 560,
+		name: "capa saburral húmeda"
+	},
+	{
+		id: 570,
+		name: "capa saburral inexistente o mínima"
+	},
+	{
+		id: 580,
+		name: "capa saburral seca, amarilla y a veces blanca"
+	},
+	{
+		id: 600,
+		name: "cara pálida"
+	},
+	{
+		id: 610,
+		name: "carácter abierto facilmente irritable"
+	},
+	{
+		id: 620,
+		name: "Catarros"
+	},
+	{
+		id: 640,
+		name: "cefaleas"
+	},
+	{
+		id: 650,
+		name: "ciclo menstrual acortado de sangre pálida y abundante o escasa hacia la franca amenorrea"
+	},
+	{
+		id: 660,
+		name: "ciclo menstrual alargado"
+	},
+	{
+		id: 670,
+		name: "cistitis"
+	},
+	{
+		id: 680,
+		name: "coágulos en la menstruación"
+	},
+	{
+		id: 700,
+		name: "conjuntivitis"
+	},
+	{
+		id: 710,
+		name: "constitución física pobre"
+	},
+	{
+		id: 720,
+		name: "Crisis de nervios"
+	},
+	{
+		id: 740,
+		name: "debilidad de extremidades"
+	},
+	{
+		id: 750,
+		name: "debilidad de miembros"
+	},
+	{
+		id: 760,
+		name: "Debilidad de piernas"
+	},
+	{
+		id: 770,
+		name: "debilidad gastrointestinal"
+	},
+	{
+		id: 780,
+		name: "Debilidad general asociada a debilidad digestiva o de anemia"
+	},
+	{
+		id: 790,
+		name: "debilidad muscular, formación de agujetas y sensación de qumazón interna"
+	},
+	{
+		id: 8,
+		name: ""
+	},
+	{
+		id: 8,
+		name: ""
+	},
+	{
+		id: 8,
+		name: ""
+	},
+	{
+		id: 8,
+		name: ""
+	},
+	{
+		id: 8,
+		name: ""
+	},
+	{
+		id: 8,
+		name: ""
+	},
+	{
+		id: 8,
+		name: ""
+	},
+	{
+		id: 8,
+		name: ""
+	},
+	{
+		id: 8,
+		name: ""
+	},
+	{
+		id: 8,
+		name: ""
+	},
+	{
+		id: 8,
 		name: ""
 	}
 ];
