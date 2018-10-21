@@ -68,170 +68,167 @@ let diagnostics = [
 		id: 64,
 		name: "Vacío o Deficiencia del Qi con Humedad y Acumulación de Comida.Debilidad energética, enzimática, asociada a edema y fáciles estancamientos de comida",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [1410,2240,3250,3570,3600,4350],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 65,
 		name: "Vacío de Qi con Vacío de Ying, con Vacío y Calor de Sangre propia del afectado por quimioterapia.Vacío energético glandular, sanguíneo y global. Astenia general",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [160,500,870,2240,3070,3860,4360],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 66,
 		name: "Vacío de Qi de Pulmón, de Bazo y Riñón y con Vacío de Ying",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [280,500,620,740,800,830,1310,1400,1810,1860,2000,3580,3840],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 67,
 		name: "Vacío de Qi de Pulmón de Bazo y Riñones. Agresión de Viento Externo",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [280,500,620,800,810,1320,1360,1380,1510,1570,1810,2220,3030,3270,3580,4370],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 68,
 		name: "Vacío de Qi(de Bazo y Riñón) con Humedad de Vejiga.Vacío digestivo, suprarrenal y edema en el ámbito pélbico",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [500,810,890,1500,1510,1830,2010,2220,3240,3360,4360],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 69,
 		name: "Vacío de Qi de Bazo con Estancamietno de Qi de Hígado y Humedad en intestino. Deficiencia digestiva asociada a emotividad alterada y bloqueo hepático subsiguiente.",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [5120,500,810,1310,1590,1680,1810,1840,1930,1980,2010,3360,3370],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 70,
 		name: "Vacío de Qi de Estómado y Bazo con insuficiencia de Yin de Estómago, con Humedad y Estancamiento del Qi en triple Recalentador. Deficiencias energéticas,",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [370,500,800,1810,1840,1970,2010,2240,3020,3640],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 71,
 		name: "Vacío de Qi de Pulmón y Bazo con Deficiencia de Yang y Humedad residual en los músculos",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [140,810,1330,1340,1810,2180,2200,3310,3530,3760,3770,4360],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 72,
 		name: "Vacío de Yang",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [340,360,760,860,1010,1080,1510,1560,1580,2030,3280,3360,3410,3440],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 75,
 		name: "Vacío de Qi de Corazón. Vacío de Yang de Corazón. Deficiencia energética en corazón",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [60,210,260,340,780,860,1260,1390,1550,1570,1810,1820,1930,2010,2260,3100,3180,3270,3320,3350,3460,3690,3900],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 80,
 		name: "Vacío de Ying. Sequedad. Trastorno neuroendocrino",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [140,210,390,400,430,470,480,490,570,790,1100,1110,1300,1340,1450,1620,1900,1930,2070,2110,2120,3130,3210,3230,3360,3380,3400,3490,3660,3660,3800,3850,3870,4260],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 90,
 		name: "Vacío de Qi y Yang de Pulmón. Vacío de WEI Qi. Deficiencia inmunitaria pulmonar",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [140,340,420,860,1020,1560,1570,1820,1880,2040,2260,3030,3170,3270,3350,3460,4000,4210,4370],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 100,
 		name: "Vacío de Sangre, Yin, Yang y Qi. Vacío de Jing. Vacío esencial global energético",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [60,190,210,230,250,300,320,640,650,670,770,840,880,900,930,950,1230,1250,1260,1270,1300,1340,1480,1650,1820,1930,2160,2170,2210,2250,3000,3090,3100,3180,3320,3540,3890,4220,4280,4300,4340,4360],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 110,
 		name: "Vacío de Sangre. Vacío de Sangre de Hígado. Deficiencia de la función del hígado de enriquecer la sangre",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [40,180,190,660,1900,1960,2010,2270,3110,3120,3140,3180,3200,3230,3290,3390,3560,3620,4320,4330,4360],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 120,
 		name: "Estancamiento de Sangre. Estancamientos y estasis sanguíneo",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [680,990,1160,1240,1340,1600,1690,1700,1940,2060,2280,3000,3080,3610,4270,4290],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 130,
 		name: "Estancamiento de Qi de Hígado. Estancamiento de Qi General. Procesos de estancamietno enzimático",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [20,820,920,960,1000,1030,1060,1070,1090,1120,1150,1180,1180,1220,1330,1630,1720,1730,1750,1780,1790,1850,3700,3710,3720,3780,3880,4310],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 140,
 		name: "Sindrome de Obstrucción en los Jing Mai. Microcirculación Alterada",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [360,550,1530,1540,2010,3470],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 150,
 		name: "Humedad Frío. Edema y acumulación líquida en subepitelios",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [230,350,360,710,730,900,980,1130,1200,1370,1510,1520,1540,1570,1770,2030,3010,3130,3450],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 160,
 		name: "Humedad calor- Humedad Calor Digestivo (Recalentador Medio). Acumulación de líquido e hipermetabolismo en digestivo",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [170,270,460,520,560,910,940,970,1170,1340,1420,1760,1890,2070,3130,3220,3430],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 170,
 		name: "Humedad Calor (II). Humedad Calor en Piel y Periferia. Acumulación de líquido e hippermetabolismo en piel y musculación",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [440,520,560,970,1460,1890,2070,3130,3420,3730,3740],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 180,
 		name: "Humedad Calor (III). Humedad Calor en Riñón (Recalentador Inferior). Acumulación de líquido e hippermetabolismo en ámbito genito-urinario",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [540,1130,1740,1890,2070,3130,3220,3420],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 190,
 		name: "Mucosidades Calor. Acumulación de flemas e hipermetabolismo",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [440,520,610,1300,1460,2070,3040,3150,3490,4250],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 200,
 		name: "Mucosidades Frío. Acumulación de flemas e hipometabolismo",
 		description: "Descripción pendiente...",
-		symptoms: [50,120,290,520,590,630,1160,2090,3510],
+		symptoms: [360,550,1140,1570,2010,2260,3050,3480,3590,4100],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	}
 ];
 
 let symptoms = [
-	{
-		id: 130,
-		name: "Agitación emocional, incluso comportamiento maníaco y o espíritu turbado"
-	},
+	
 	{
 		id: 400,
 		name: "Boca y garganta secas"
@@ -487,6 +484,10 @@ let symptoms = [
 	{
 		id: 120,
 		name: "agitación e irritabilidad"
+	},
+	{
+		id: 130,
+		name: "Agitación emocional, incluso comportamiento maníaco y o espíritu turbado"
 	},
 	{
 		id: 140,
