@@ -105,10 +105,10 @@
 						alert(notFoundEntityName + ' con id ' + value + ' no encontrado');
 					}
 				} else {
-					if (filtered.length > 1) {
-						alert('El id ' + ent.id + ' se ha asignado a ' + filtered.length + ' ' + notFoundEntityName + '.\nSe tomará el primero encontrado')
+					i++;
+					if(i < 6 && filtered.length > 1) {
+						alert('El id ' + value + ' se ha asignado a ' + filtered.length + ' ' + notFoundEntityName.toLowerCase() + 's distintos.\nSe asginará el primero en la lista de síntomas');
 					}
-
 					filtered[0][baseEntity] = filtered[0][baseEntity] || [];
 					// add diagnosis to sypmtom
 					filtered[0][baseEntity].push(entity);
@@ -217,7 +217,7 @@
 
 	// unselecting an item propagation
 	function propagateUnselect(entityList, selectionList) {
-		entityList.forEach(entity => {
+		entityList.filter(entity => typeof entity === 'object').forEach(entity => {
 			entity.count--;
 
 			if (!entity.count) {
@@ -233,17 +233,15 @@
 
 	// selecting an item in a list
 	function propagateSelect(entityList, selectionList) {
-		entityList.forEach(entity => {
-			if(typeof entity === 'object') {
-				entity.count = entity.count || 0;
-				entity.count++;
+	entityList.filter(entity => typeof entity === 'object').forEach(entity => {
+			entity.count = entity.count || 0;
+			entity.count++;
 
-				if (entity.count === 1) {
-					selectionList = selectionList || data.selected.entities;
-					selectionList.push(entity);
+			if (entity.count === 1) {
+				selectionList = selectionList || data.selected.entities;
+				selectionList.push(entity);
 
-					entity.domElement.addClass(config.naming.selected);
-				}
+				entity.domElement.addClass(config.naming.selected);
 			}
 		});
 	}
