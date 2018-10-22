@@ -714,47 +714,567 @@ let symptoms = [
 		name: "debilidad muscular, formación de agujetas y sensación de qumazón interna"
 	},
 	{
-		id: 8,
-		name: ""
+		id: 800,
+		name: "deposiciones sueltas"
 	},
 	{
-		id: 8,
-		name: ""
+		id: 805,
+		name: "delgadez"
 	},
 	{
-		id: 8,
-		name: ""
+		id: 810,
+		name: "depresión"
 	},
 	{
-		id: 8,
-		name: ""
+		id: 820,
+		name: "Depresión acompañada de susceptibilidad"
 	},
 	{
-		id: 8,
-		name: ""
+		id: 830,
+		name: "depresiones fáciles"
 	},
 	{
-		id: 8,
-		name: ""
+		id: 840,
+		name: "desfallecimientos fáciles, crónicos"
 	},
 	{
-		id: 8,
-		name: ""
+		id: 850,
+		name: "diabetes tardía"
 	},
 	{
-		id: 8,
-		name: ""
+		id: 860,
+		name: "diarrea matinal o heces blandas"
 	},
 	{
-		id: 8,
-		name: ""
+		id: 870,
+		name: "diarreas"
 	},
 	{
-		id: 8,
-		name: ""
+		id: 880,
+		name: "diarreas ininterrumpidas"
 	},
 	{
-		id: 8,
+		id: 890,
+		name: "Dificultad de micción con poliuria escasa"
+	},
+	{
+		id: 900,
+		name: "digestión débil"
+	},
+	{
+		id: 910,
+		name: "digestiones lentas"
+	},
+	{
+		id: 920,
+		name: "dismenorrea (dolor menstrual) y distensión premestrual"
+	},
+	{
+		id: 930,
+		name: "dismenorrea que se mejora a la presión"
+	},
+	{
+		id: 940,
+		name: "dispepsias"
+	},
+	{
+		id: 950,
+		name: "distensión abdominal"
+	},
+	{
+		id: 960,
+		name: "distensión de senos"
+	},
+	{
+		id: 970,
+		name: "disuria (dificultad o dolor)"
+	},
+	{
+		id: 990,
+		name: "dolor agudo, localizado, fijo, agravado a la presión"
+	},
+	{
+		id: 1000,
+		name: "dolor costal - sensación"
+	},
+	{
+		id: 1010,
+		name: "Dolor de espalda"
+	},
+	{
+		id: 1020,
+		name: "dolor de espalda, dorsal y en piernas"
+	},
+	{
+		id: 1030,
+		name: "Dolor e hinchazón en escroto"
+	},
+	{
+		id: 1040,
+		name: "dolor epigástrico"
+	},
+	{
+		id: 1050,
+		name: "dolor fácil asociado a garganta inflamada"
+	},
+	{
+		id: 1060,
+		name: "dolor neurálgico intercostal - sensación"
+	},
+	{
+		id: 1070,
+		name: "dolor pélbico que irradia a testículos"
+	},
+	{
+		id: 1080,
+		name: "Dolor y debilidad lumbar"
+	},
+	{
+		id: 1090,
+		name: "dolores  o molestias erráticos"
+	},
+	{
+		id: 1100,
+		name: "dolores de lumbares"
+	},
+	{
+		id: 1110,
+		name: "dolores de rodilla"
+	},
+	{
+		id: 1120,
+		name: "dolores herniarios"
+	},
+	{
+		id: 1130,
+		name: "Edema"
+	},
+	{
+		id: 1140,
+		name: "enfriamiento del cuerpo"
+	},
+	{
+		id: 1150,
+		name: "epidimitis u orquitis"
+	},
+	{
+		id: 1170,
+		name: "equimosis lingual (acumulacion de sangre)"
+	},
+	{
+		id: 1180,
+		name: "eructos"
+	},
+	{
+		id: 1200,
+		name: "escalofríos"
+	},
+	{
+		id: 1220,
+		name: "espasmos"
+	},
+	{
+		id: 1230,
+		name: "espondilitis anquilopoyética (se sueldan las vérebras)"
+	},
+	{
+		id: 1240,
+		name: "esquinosis lingual"
+	},
+	{
+		id: 1250,
+		name: "estado febril"
+	},
+	{
+		id: 1260,
+		name: "estenosis mitral (estrechamiento)"
+	},
+	{
+		id: 1270,
+		name: "esterilidad"
+	},
+	{
+		id: 1290,
+		name: "estornudos"
+	},
+	{
+		id: 1300,
+		name: "estreñimiento de heces duras"
+	},
+	{
+		id: 1310,
+		name: "estreñimiento o heces secas y duras"
+	},
+	{
+		id: 1310,
+		name: "falta de confianza en uno mismo"
+	},
+	{
+		id: 1315,
+		name: "estreñimiento y o diarrea"
+	},
+	{
+		id: 1320,
+		name: "expectoraciones purulentas con olor pútrido"
+	},
+	{
+		id: 1325,
+		name: "falta de libido"
+	},
+	{
+		id: 1330,
+		name: "falta de memoria"
+	},
+	{
+		id: 1335,
+		name: "expresiones coléricas"
+	},
+	{
+		id: 1340,
+		name: "fatiga"
+	},
+	{
+		id: 1350,
+		name: "fatiga (siempre)"
+	},
+	{
+		id: 1360,
+		name: "fatiga al esfuerzo"
+	},
+	{
+		id: 1370,
+		name: "fatiga asociada a sensación de pesadez"
+	},
+	{
+		id: 1380,
+		name: "fatiga respiratoria"
+	},
+	{
+		id: 1390,
+		name: "Fatiga y disnea al esfuerzo (ahogo)"
+	},
+	{
+		id: 1400,
+		name: "febrículas"
+	},
+	{
+		id: 1410,
+		name: "fiebre de heno"
+	},
+	{
+		id: 1420,
+		name: "fiebre fácil o febrícula"
+	},
+	{
+		id: 1430,
+		name: "Fiebre ocasional"
+	},
+	{
+		id: 1440,
+		name: "Fiebres elevadas, fáciles y frecuentes"
+	},
+	{
+		id: 1450,
+		name: "fiebres en general o febrículas o sensación de fiebre expontánea, sin aparente razón y sobre todo vespertinas"
+	},
+	{
+		id: 1460,
+		name: "fiebres fáciles"
+	},
+	{
+		id: 1470,
+		name: "flemas difíciles de expectorar"
+	},
+	{
+		id: 1480,
+		name: "fobia"
+	},
+	{
+		id: 1500,
+		name: "forma obsesiva de pensar"
+	},
+	{
+		id: 1510,
+		name: "frío"
+	},
+	{
+		id: 1520,
+		name: "frio en extremidades"
+	},
+	{
+		id: 1530,
+		name: "frio en manos y piés"
+	},
+	{
+		id: 1540,
+		name: "frío interno"
+	},
+	{
+		id: 1550,
+		name: "frio lumbar con dolor lumbar y en piernas"
+	},
+	{
+		id: 1560,
+		name: "Frío sentido y vívido"
+	},
+	{
+		id: 1570,
+		name: "friolerismo"
+	},
+	{
+		id: 1580,
+		name: "Friolerismo y manos y pies fríos"
+	},
+	{
+		id: 1590,
+		name: "fustraciones reprimidas"
+	},
+	{
+		id: 1600,
+		name: "gangrena en los casos graves"
+	},
+	{
+		id: 1610,
+		name: "garganta inflamada"
+	},
+	{
+		id: 1620,
+		name: "garganta seca"
+	},
+	{
+		id: 1630,
+		name: "forma obsesiva de pensar"
+	},
+	{
+		id: 1650,
+		name: "goteo de sangre permanente menstrual"
+	},
+	{
+		id: 1680,
+		name: "heces caprinas o sueltas"
+	},
+	{
+		id: 1690,
+		name: "hematemesis (vómitos de sange digestiva)"
+	},
+	{
+		id: 1700,
+		name: "hemoptisis (expectoración de sangre pulmonar)"
+	},
+	{
+		id: 1720,
+		name: "hepatitis crónicas (algunas)"
+	},
+	{
+		id: 1730,
+		name: "hernia de hiato"
+	},
+	{
+		id: 1740,
+		name: "Hinchazón corporal"
+	},
+	{
+		id: 1750,
+		name: "hinchazón abdominal"
+	},
+	{
+		id: 1760,
+		name: "hinchazón abdominal diurna"
+	},
+	{
+		id: 1770,
+		name: "hinchazón genera en pelvis y/o en piernas"
+	},
+	{
+		id: 1780,
+		name: "hinchazones regionales"
+	},
+	{
+		id: 1790,
+		name: "hipo"
+	},
+	{
+		id: 1800,
+		name: "hipoglucemia"
+	},
+	{
+		id: 1810,
+		name: "inapetencia"
+	},
+	{
+		id: 1820,
+		name: "incontinencia urinaria"
+	},
+	{
+		id: 1830,
+		name: "incontinencia al toser o saltar"
+	},
+	{
+		id: 1840,
+		name: "indentación"
+	},
+	{
+		id: 1850,
+		name: "induraciones"
+	},
+	{
+		id: 1860,
+		name: "Infecciones de vías respiratorias"
+	},
+	{
+		id: 1870,
+		name: "infecciones en el tracto respiratorio con calor"
+	},
+	{
+		id: 1880,
+		name: "infecciones fáciles en vías altas respiratorias"
+	},
+	{
+		id: 1890,
+		name: "infecciones urinarias fáciles"
+	},
+	{
+		id: 1920,
+		name: "introversión"
+	},
+	{
+		id: 1930,
+		name: "irritabilidad"
+	},
+	{
+		id: 1940,
+		name: "Labios color púrpura o violáceos"
+	},
+	{
+		id: 1950,
+		name: "labios secos"
+	},
+	{
+		id: 1960,
+		name: "labios y mucosa palpebral pálidos"
+	},
+	{
+		id: 1970,
+		name: "lengua con grietas transversales"
+	},
+	{
+		id: 1980,
+		name: "lengua delgada"
+	},
+	{
+		id: 1985,
+		name: "lengua con capa gruesa"
+	},
+	{
+		id: 1995,
+		name: "lengua con grieta central"
+	},
+	{
+		id: 2000,
+		name: "lengua hinchada"
+	},
+	{
+		id: 2010,
+		name: "lengua pálida"
+	},
+	{
+		id: 2020,
+		name: "lengua pálida algo hinchada"
+	},
+	{
+		id: 2030,
+		name: "Lengua pálida, indentada"
+	},
+	{
+		id: 2040,
+		name: "lengua pálida, hinchada e indentada"
+	},
+	{
+		id: 2060,
+		name: "lengua púrpura o violácea"
+	},
+	{
+		id: 2070,
+		name: "lengua roja"
+	},
+	{
+		id: 2080,
+		name: "lengua roja o escarlata a veces ulcerada"
+	},
+	{
+		id: 2090,
+		name: "Lengua roja oscura (sobre todo en los bordes)"
+	},
+	{
+		id: 2100,
+		name: "Lengua roja y hasta escarlata y más roja en el ápice"
+	},
+	{
+		id: 2110,
+		name: "lengua roja y seca sin apenas capa saburral"
+	},
+	{
+		id: 2120,
+		name: "lengua seca"
+	},
+	{
+		id: 2130,
+		name: "lengua temblorosa"
+	},
+	{
+		id: 2160,
+		name: "letargia"
+	},
+	{
+		id: 2170,
+		name: "leucopenia"
+	},
+	{
+		id: 2180,
+		name: "leve dolor"
+	},
+	{
+		id: 2190,
+		name: "ligero dolor epigástrico"
+	},
+	{
+		id: 2200,
+		name: "ligero dolor muscular"
+	},
+	{
+		id: 2210,
+		name: "litiasis urinaria"
+	},
+	{
+		id: 2220,
+		name: "lumbalgias"
+	},
+	{
+		id: 2240,
+		name: "mala digestión"
+	},
+	{
+		id: 2250,
+		name: "malaria cronificada"
+	},
+	{
+		id: 2260,
+		name: "manos y pies facilmente fríos"
+	},
+	{
+		id: 2270,
+		name: "Mareos"
+	},
+	{
+		id: 2280,
+		name: "masas abdominales palpables."
+	},
+	{
+		id: 3000,
+		name: "metrorragia"
+	},
+	{
+		id: 30,
 		name: ""
 	}
 ];
