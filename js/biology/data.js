@@ -54,7 +54,7 @@ let diagnostics = [
 		id: 62,
 		name: "Vacio de QI del Bazo y de pulmón con estancamiento de la energía enzimática asociados a Vacío de Ying y a Humedad.Deficiencia digestiva del transporte alimentario asociado a transporte neuro-vegetarivo y edema en el ámbito digestivo",
 		description: "Descripción pendiente...",
-		symptoms: [390,500,740,800,800,850,870,1040,1810,1950,1990,1970,2020,2190,2240,3070,3360,3620,3680,3750,3830,4240],
+		symptoms: [390,500,740,800,805,850,870,1040,1810,1950,1995,1970,2020,2190,2240,3070,3360,3620,3680,3750,3830,4240],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
@@ -89,7 +89,7 @@ let diagnostics = [
 		id: 67,
 		name: "Vacío de Qi de Pulmón de Bazo y Riñones. Agresión de Viento Externo",
 		description: "Descripción pendiente...",
-		symptoms: [280,500,620,800,810,1320,1360,1380,1510,1570,1810,2220,3030,3270,3580,4370],
+		symptoms: [280,500,620,800,810,1325,1360,1380,1510,1570,1810,2220,3030,3270,3580,4370],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
@@ -103,7 +103,7 @@ let diagnostics = [
 		id: 69,
 		name: "Vacío de Qi de Bazo con Estancamietno de Qi de Hígado y Humedad en intestino. Deficiencia digestiva asociada a emotividad alterada y bloqueo hepático subsiguiente.",
 		description: "Descripción pendiente...",
-		symptoms: [5120,500,810,1310,1590,1680,1810,1840,1930,1980,2010,3360,3370],
+		symptoms: [5120,500,810,1315,1590,1680,1810,1840,1930,1985,2010,3360,3370],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
@@ -131,7 +131,7 @@ let diagnostics = [
 		id: 75,
 		name: "Vacío de Qi de Corazón. Vacío de Yang de Corazón. Deficiencia energética en corazón",
 		description: "Descripción pendiente...",
-		symptoms: [60,210,260,340,780,860,1260,1390,1550,1570,1810,1820,1930,2010,2260,3100,3180,3270,3320,3350,3460,3690,3900],
+		symptoms: [60,210,260,340,780,860,1260,1390,1550,1570,1810,1820,1930,2010,2260,3100,3180,3270,3320,3350,3460,3695,3900],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
@@ -166,14 +166,14 @@ let diagnostics = [
 		id: 120,
 		name: "Estancamiento de Sangre. Estancamientos y estasis sanguíneo",
 		description: "Descripción pendiente...",
-		symptoms: [680,990,1160,1240,1340,1600,1690,1700,1940,2060,2280,3000,3080,3610,4270,4290],
+		symptoms: [680,990,1160,1240,1340,1600,1690,1700,1850,1940,2060,2280,3000,3080,3610,4270,4290],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
 		id: 130,
 		name: "Estancamiento de Qi de Hígado. Estancamiento de Qi General. Procesos de estancamietno enzimático",
 		description: "Descripción pendiente...",
-		symptoms: [20,820,920,960,1000,1030,1060,1070,1090,1120,1150,1180,1180,1220,1330,1630,1720,1730,1750,1780,1790,1850,3700,3710,3720,3780,3880,4310],
+		symptoms: [20,820,920,960,1000,1030,1060,1070,1090,1120,1150,1180,1180,1220,1335,1630,1720,1730,1750,1780,1790,1850,3705,3710,3720,3780,3880,4310],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
@@ -187,7 +187,7 @@ let diagnostics = [
 		id: 150,
 		name: "Humedad Frío. Edema y acumulación líquida en subepitelios",
 		description: "Descripción pendiente...",
-		symptoms: [230,350,360,710,730,900,980,1130,1200,1370,1510,1520,1540,1570,1770,2030,3010,3130,3450],
+		symptoms: [230,350,360,710,730,900,970,980,1130,1200,1370,1510,1520,1540,1570,1770,2030,3010,3130,3450],
 		pathologies: [9, 10, 11, 12, 13, 14]
 	},
 	{
@@ -1271,11 +1271,427 @@ let symptoms = [
 	},
 	{
 		id: 3000,
-		name: "metrorragia"
+		name: "metrorragias  (fuera del periodo)"
 	},
 	{
-		id: 30,
-		name: ""
+		id: 3010,
+		name: "micciones poco abundantes y/o frecuentes"
+	},
+	{
+		id: 3020,
+		name: "miembros débiles"
+	},
+	{
+		id: 3030,
+		name: "miembros fríos"
+	},
+	{
+		id: 3040,
+		name: "mucosidades amarillas densas"
+	},
+	{
+		id: 3050,
+		name: "Mucosidades y flemas blancas y fluidas"
+	},
+	{
+		id: 3060,
+		name: "nariz bloqueada"
+	},
+	{
+		id: 3070,
+		name: "náuseas"
+	},
+	{
+		id: 3080,
+		name: "necrosis"
+	},
+	{
+		id: 3090,
+		name: "nefritis"
+	},
+	{
+		id: 3100,
+		name: "neurastenia (depresión, tristeza inestabilidad emociona)"
+	},
+	{
+		id: 3110,
+		name: "neuritis"
+	},
+	{
+		id: 3120,
+		name: "oligomenorrea (ciclos poco fecuentes)"
+	},
+	{
+		id: 3130,
+		name: "Oliguria (disminución de orina"
+	},
+	{
+		id: 3140,
+		name: "onicopatías (alteración en uñas)"
+	},
+	{
+		id: 3150,
+		name: "orina concentrada"
+	},
+	{
+		id: 3170,
+		name: "orinas frecuentes"
+	},
+	{
+		id: 3180,
+		name: "palpitaciones"
+	},
+	{
+		id: 3200,
+		name: "parestesias (adormecimiento)"
+	},
+	{
+		id: 3210,
+		name: "pelo y cabello seco, sin brillo y quebradizo"
+	},
+	{
+		id: 3220,
+		name: "pesadez corporal- sensación"
+	},
+	{
+		id: 3230,
+		name: "piel seca y rugosa"
+	},
+	{
+		id: 3240,
+		name: "poca claridad de juicio por exceso de pensamiento"
+	},
+	{
+		id: 3250,
+		name: "poco apetito"
+	},
+	{
+		id: 3260,
+		name: "Polidipsia (necesidad urgente de beber)"
+	},
+	{
+		id: 3270,
+		name: "poliuria (mucha orina)"
+	},
+	{
+		id: 3280,
+		name: "Poliuria, micción frecuente y franca incontinencia"
+	},
+	{
+		id: 3290,
+		name: "Preanemia"
+	},
+	{
+		id: 3310,
+		name: "prolapso de útero, estómago y vegiga"
+	},
+	{
+		id: 3320,
+		name: "Prolapso mitra"
+	},
+	{
+		id: 3330,
+		name: "prolapsos uterino o rectal"
+	},
+	{
+		id: 3340,
+		name: "pterigium (degeneración de la conjuntiva del ojo)"
+	},
+	{
+		id: 3350,
+		name: "Pulso a veces lento"
+	},
+	{
+		id: 3360,
+		name: "pulso débil"
+	},
+	{
+		id: 3370,
+		name: "pulso en cuerda"
+	},
+	{
+		id: 3380,
+		name: "pulso filiforme siempre"
+	},
+	{
+		id: 3390,
+		name: "pulso fino"
+	},
+	{
+		id: 3400,
+		name: "Pulso fino y rápido"
+	},
+	{
+		id: 3410,
+		name: "Pulso lento"
+	},
+	{
+		id: 3420,
+		name: "pulso mudo y rápido"
+	},
+	{
+		id: 3430,
+		name: "pulso mudo, profundo y rápido"
+	},
+	{
+		id: 3440,
+		name: "Pulso profundo"
+	},
+	{
+		id: 3450,
+		name: "pulso profundo o mudo"
+	},
+	{
+		id: 3460,
+		name: "pulso profundo y débil"
+	},
+	{
+		id: 3470,
+		name: "pulso profundo y fino"
+	},
+	{
+		id: 3480,
+		name: "pulso profundo y lento"
+	},
+	{
+		id: 3490,
+		name: "pulso rápido"
+	},
+	{
+		id: 3530,
+		name: "pulso sin fuerza y vacío"
+	},
+	{
+		id: 3540,
+		name: "púrpuras de cualquier tipo"
+	},
+	{
+		id: 3550,
+		name: "querer bebidas frías"
+	},
+	{
+		id: 3560,
+		name: "reglas con sangre pálida"
+	},
+	{
+		id: 3570,
+		name: "resfriados constantes"
+	},
+	{
+		id: 3580,
+		name: "rinitis alérgica"
+	},
+	{
+		id: 3590,
+		name: "rinorrea"
+	},
+	{
+		id: 3600,
+		name: "rinorrea siempre"
+	},
+	{
+		id: 3610,
+		name: "Rostro color púrpura o violáceo"
+	},
+	{
+		id: 3620,
+		name: "rostro pálido"
+	},
+	{
+		id: 3640,
+		name: "saciedad"
+	},
+	{
+		id: 3650,
+		name: "sangre palida y acuosa"
+	},
+	{
+		id: 3660,
+		name: "sed"
+	},
+	{
+		id: 3680,
+		name: "sed sin ganas de beber"
+	},
+	{
+		id: 3690,
+		name: "Sensación de calor en pulmones"
+	},
+	{
+		id: 3695,
+		name: "Senilidad acelerada"
+	},
+	{
+		id: 3705,
+		name: "sensación de opresión abdominal"
+	},
+	{
+		id: 3710,
+		name: "sensación de opresión costal"
+	},
+	{
+		id: 3720,
+		name: "sensación de opresión torácica"
+	},
+	{
+		id: 3730,
+		name: "sensación de pesadez corporal"
+	},
+	{
+		id: 3740,
+		name: "sensación de pesadez pélvica y vesical"
+	},
+	{
+		id: 3750,
+		name: "sensación de plenitud y pesadez en epigastro"
+	},
+	{
+		id: 3760,
+		name: "síndrome de fatiga post-vírica"
+	},
+	{
+		id: 3770,
+		name: "síndrome de vacío general"
+	},
+	{
+		id: 3780,
+		name: "sindrome premenstrual y trastornos emocionales asociados"
+	},
+	{
+		id: 3790,
+		name: "sinusitis crónica"
+	},
+	{
+		id: 3800,
+		name: "Sofocos"
+	},
+	{
+		id: 3810,
+		name: "somnolencia"
+	},
+	{
+		id: 3820,
+		name: "saburra blanca"
+	},
+	{
+		id: 3830,
+		name: "suburra delgada"
+	},
+	{
+		id: 3840,
+		name: "sudor espontáneo"
+	},
+	{
+		id: 3850,
+		name: "Sudores extraños, sorpresivos"
+	},
+	{
+		id: 3860,
+		name: "sudores y sofocos"
+	},
+	{
+		id: 3870,
+		name: "sueño de baja calidad"
+	},
+	{
+		id: 3880,
+		name: "suspiros"
+	},
+	{
+		id: 3890,
+		name: "taquicardia paroxística"
+	},
+	{
+		id: 3900,
+		name: "Taquicardia paroxística (aguda)"
+	},
+	{
+		id: 4000,
+		name: "Taquicardia paroxística (aguda)"
+	},
+	{
+		id: 4100,
+		name: "temor al frío"
+	},
+	{
+		id: 4200,
+		name: "Tez roja"
+	},
+	{
+		id: 4210,
+		name: "tos"
+	},
+	{
+		id: 4220,
+		name: "tos consuntiva"
+	},
+	{
+		id: 4230,
+		name: "tos crónica"
+	},
+	{
+		id: 4240,
+		name: "tos crónica con esputo blanco acuoso"
+	},
+	{
+		id: 4250,
+		name: "tos frecuente asociada a las mucosidades"
+	},
+	{
+		id: 4260,
+		name: "tos seca"
+	},
+	{
+		id: 4270,
+		name: "traumatismos y hematomas de larga curación"
+	},
+	{
+		id: 4280,
+		name: "tuberculosis renal"
+	},
+	{
+		id: 4290,
+		name: "Tumefacciones localizadas"
+	},
+	{
+		id: 4300,
+		name: "úlcera péptica en estado de vacío energético"
+	},
+	{
+		id: 4310,
+		name: "úlceras pépticas crónicas (algunas)"
+	},
+	{
+		id: 4320,
+		name: "uñas frágiles"
+	},
+	{
+		id: 4330,
+		name: "uñas secas"
+	},
+	{
+		id: 4340,
+		name: "ureitis"
+	},
+	{
+		id: 4350,
+		name: "vacío inmunitario en niños (salvo eczema o asma)"
+	},
+	{
+		id: 4360,
+		name: "vómitos"
+	},
+	{
+		id: 4370,
+		name: "Vértigos"
+	},
+	{
+		id: 4380,
+		name: "voz débil, baja sin tono"
+	},
+	{
+		id: 4390,
+		name: "voz ronca"
 	}
 ];
 
